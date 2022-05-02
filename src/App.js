@@ -36,7 +36,7 @@ class App extends React.Component {
             <h1>We are getting ready</h1>
             <p>Please follow our socials to stay updated!</p>
           </div>
-          <a href="https://discord.gg/6rT5mZdmr6">
+          <a href="https://discord.gg/6rT5mZdmr6" target="_blank">
             <div className="cta">Join Discord</div>
           </a>
         </div>
