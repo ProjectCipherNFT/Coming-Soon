@@ -14,8 +14,8 @@ class App extends React.Component {
           </div>
           <div className="social">
             <a
-              href="https://facebook.com"
-              title="Facebook"
+              href="https://instagram.com/projectciphernft"
+              title="Instagram"
               target="_blank"
               rel="noopener noreferrer"
             >
